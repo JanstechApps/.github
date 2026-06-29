@@ -4,8 +4,6 @@ Independent software studio developing Android applications, AI-powered services
 
 ## Applications
 
-### Työtori
-AI-assisted job application platform helping users discover, organize and complete job applications.
 
 ### GainsAI
 Adaptive AI-powered fitness coaching platform with workout planning, analytics and progress tracking.
