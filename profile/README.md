@@ -1,4 +1,4 @@
-# Janstech Apps
+# JanstechApps
 
 Independent software studio developing Android applications, AI-powered services, productivity tools and mobile platforms.
 
